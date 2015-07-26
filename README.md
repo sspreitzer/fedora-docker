@@ -11,6 +11,7 @@ Included so far:
  - [nginx](/nginx/): dynamical nginx web server
 
 ## Credits
-Credited to all opensource comitters and users
-Credited also to my employer [Red Hat](http://www.redhat.com)
+Credited to all opensource comitters and users.
+
+Credited also to my employer [Red Hat](http://www.redhat.com).
 
